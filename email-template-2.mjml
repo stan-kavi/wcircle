@@ -33,7 +33,7 @@
     </mj-section>
     
     
-    <mj-section background-url="https://cdn.abcdandcompany.com/awc/background-diagonal.png" background-repeat="no-repeat">
+    <mj-section background-url="https://cdn.abcdandcompany.com/awc/background-diagonal2.png" background-repeat="no-repeat">
       <mj-column width="100%">
         <mj-button background-color="#000000" color="#ffffff" font-family="apertura, Yantramanav, sans-serif" font-size="32px" padding="20px 40px" align="left" href="https://awidercircle.org">
           Buy <span style="color: #57aadd; font-weight: 500;">TICKETS</span>
