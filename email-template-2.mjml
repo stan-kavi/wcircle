@@ -18,7 +18,7 @@
     
     <mj-section padding="20px 0 0 0" background-color="#FFFFFF">
       <mj-column width="100%" background-color="#ffffff">
-        <mj-image src="https://awc.abcdandcompany.com/wcircle-header.png" href="https://awidercircle.org" alt="" align="center" border="none" padding="0px"></mj-image>
+        <mj-image src="https://cdn.abcdandcompany.com/awc/wcircle-header.png" href="https://awidercircle.org" alt="" align="center" border="none" padding="0px"></mj-image>
         
       </mj-column>      
     </mj-section>
@@ -26,24 +26,24 @@
     
     <mj-section padding="20px 20px 0 20px" background-color="#ffffff">
       <mj-column width="100%" background-color="#ffffff">
-        <mj-text align="left" padding="20px 20px 0 20px" font-family="Yantramanav, sans-serif" font-weight="500" font-size="35px" line-height="40px" background-color="#ffffff">A Wider Circle Welcomes You to This Email Template</mj-text>
-        <mj-text align="left" padding="20px 20px 20px 20px" font-weight="500" background-color="#ffffff">Sed milia simus maximenim dem corepudit ius voluptios et modipitiam ut re liasped et estempo saperae cus. Aliquiate re elique ditiam, que eum nullab ium hit lam, te nonectatur, ant. Aliquiate re elique ditiam.</mj-text>       
+        <mj-text align="left" padding="20px 20px 0 20px" font-family="Yantramanav, sans-serif" font-weight="700" font-size="35px" line-height="40px" background-color="#ffffff">A Wider Circle Welcomes You to This Email Template</mj-text>
+        <mj-text align="left" padding="20px 20px 0 20px" font-weight="500" background-color="#ffffff">Sed milia simus maximenim dem corepudit ius voluptios et modipitiam ut re liasped et estempo saperae cus. Aliquiate re elique ditiam, que eum nullab ium hit lam, te nonectatur, ant. Aliquiate re elique ditiam.</mj-text>       
       </mj-column>      
     </mj-section>
     
     
-    <mj-section background-url="https://awc.abcdandcompany.com/background-line.png" background-repeat="no-repeat">
+    <mj-section background-url="https://cdn.abcdandcompany.com/awc/background-diagonal.png" background-repeat="no-repeat">
       <mj-column width="100%">
-        <mj-button background-color="#000000" color="#ffffff" font-family="Yantramanav, sans-serif" font-size="32px" padding="0px 40px" align="left" href="https://awidercircle.org">
+        <mj-button background-color="#000000" color="#ffffff" font-family="Yantramanav, sans-serif" font-size="32px" padding="20px 40px" align="left" href="https://awidercircle.org">
           Buy <span style="color: #57aadd; font-weight: 500;">TICKETS</span>
         </mj-button>       
         
-        <mj-image padding="120px 40px 20px 40px" width="300px" src="https://awc.abcdandcompany.com/johnson-and-johnson-logo.png" href="https://www.jnj.com" alt="" align="right" border="none"></mj-image>
+        <mj-image padding="50px 40px 20px 40px" width="300px" src="https://cdn.abcdandcompany.com/awc/johnson-and-johnson-logo.png" href="https://www.jnj.com" alt="" align="right" border="none"></mj-image>
 
-        <mj-button background-color="#56aadd" color="#ffffff" font-family="Yantramanav, sans-serif" font-weight="500" font-size="25px" line-height="30px" padding="30px 20px 10px 20px" inner-padding="3px 70px 0px 70px" align="left" href="https://awidercircle.org">
+        <mj-button background-color="#56aadd" color="#ffffff" font-family="Yantramanav, sans-serif" font-weight="700" font-size="25px" line-height="30px" padding="30px 20px 10px 20px" inner-padding="3px 70px 0px 70px" align="left" href="https://awidercircle.org">
           SPONSOR
         </mj-button>      
-        <mj-text align="left" padding="20px 20px 20px 20px" font-weight="500" color="#cfd3d7" background-color="#0f263f" height="230px"><span style="color: #cfd3d7 !important;">Sed milia simus maximenim dem corepudit ius voluptios et modipitiam ut re liasped et estempo saperae cus. Aliquiate re elique ditiam, que eum nullab ium hit lam, te nonectatur, ant. Aliquiate re elique ditiam.</span></mj-text>                      
+        <mj-text align="left" padding="20px 0 0 20px" font-weight="500" color="#cfd3d7" background-color="#0f263f" height="200px"><span style="color: #cfd3d7 !important;">Sed milia simus maximenim dem corepudit ius voluptios et modipitiam ut re liasped et estempo saperae cus. Aliquiate re elique ditiam, que eum nullab ium hit lam, te nonectatur, ant. Aliquiate re elique ditiam.</span></mj-text>                      
       </mj-column>
     </mj-section>
     
@@ -51,19 +51,19 @@
     <mj-section background-color="#ffffff" padding-bottom="10px">
       
       <mj-column width="50%" vertical-align="bottom" background-color="#ffffff">
-        <mj-image src="https://awc.abcdandcompany.com/photo-people.png" href="https://awidercircle.org" alt="" align="center" border="none" padding="0px 0px 0px 0px"></mj-image>
+        <mj-image src="https://cdn.abcdandcompany.com/awc/photo-people.png" href="https://awidercircle.org" alt="" align="center" border="none" padding="20px 0px 0px 0px"></mj-image>
       </mj-column>    
       
       <mj-column width="50%" vertical-align="bottom" background-color="#ffffff"> 
-        <mj-button background-color="#56aadd" color="#ffffff" font-family="Yantramanav, sans-serif" font-weight="500" font-size="25px" line-height="30px" padding="15px 25px 10px 25px" inner-padding="3px 55px 0px 55px" align="left" href="https://awidercircle.org">
+        <mj-button background-color="#56aadd" color="#ffffff" font-family="Yantramanav, sans-serif" font-weight="700" font-size="25px" line-height="30px" padding="15px 25px 10px 25px" inner-padding="3px 55px 0px 55px" align="left" href="https://awidercircle.org">
           RAFFLE
         </mj-button>      
         <mj-text align="left" padding="5px 25px 11px 25px" font-weight="500" font-size="14px" line-height="22px" color="#0f263f" background-color="#ffffff">Sed milia simus maximenim dem corepudit ius voluptios et modipitiam ut re liasped et estempo saperae cus. Aliquiate re etlique ditiam, que eum nullab ium hit lam, te nonectatur, ant, consecepta sint ut audisimporem ipsum quis es est.</mj-text>     
-        <mj-button background-color="#56aadd" color="#ffffff" font-family="Yantramanav, sans-serif" font-weight="500" font-size="25px" line-height="30px" padding="10px 25px" inner-padding="3px 35px 0px 35px" align="left" href="https://awidercircle.org">
+        <mj-button background-color="#56aadd" color="#ffffff" font-family="Yantramanav, sans-serif" font-weight="700" font-size="25px" line-height="30px" padding="10px 25px" inner-padding="3px 35px 0px 35px" align="left" href="https://awidercircle.org">
           DONATIONS
         </mj-button>      
         <mj-text align="left" padding="5px 25px 11px 25px" font-weight="500" font-size="14px" line-height="22px" color="#0f263f" background-color="#ffffff">Sed milia simus maximenim dem corepudit ius voluptios et modipitiam ut re liasped et estempo saperae cus.</mj-text>        
-        <mj-image src="https://awc.abcdandcompany.com/donate-button.png" href="https://awidercircle.org" alt="" align="center" padding="0" fluid-on-mobile="true" width="620px" border="none"></mj-image>   
+        <mj-image src="https://cdn.abcdandcompany.com/awc/donate-button.png" href="https://awidercircle.org" alt="" align="center" padding="0" fluid-on-mobile="true" width="620px" border="none"></mj-image>   
       </mj-column>
       
     </mj-section>
