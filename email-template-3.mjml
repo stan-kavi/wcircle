@@ -17,15 +17,10 @@
   </mj-head>
   <mj-body background-color="#ffffff">
     
-    <mj-section background-color="#ffffff">
-      <mj-column width="100%" background-color="#ffffff">
-       <mj-text></mj-text>
-      </mj-column>
-    </mj-section>
     
     <mj-hero background-url="https://cdn.abcdandcompany.com/awc/wcircle-header2.png" padding="20px 0 0 0" background-position="top right" vertical-align="bottom" height="340px">
-       <mj-text align="center" padding="20px 5px 0 0" font-family="apertura, Yantramanav, sans-serif" font-weight="500" font-size="85px" line-height="85px" color="#ffffff">Lorem</mj-text> 
-      <mj-text align="center" padding="0 5px 10px 0" font-family="apertura, Yantramanav, sans-serif" font-weight="500" font-size="85px" line-height="85px" color="#57aadd">IPSUM</mj-text>
+       <mj-text align="center" padding="20px 15px 0 0" font-family="apertura, Yantramanav, sans-serif" font-weight="500" font-size="90px" line-height="95px" color="#ffffff">Lorem</mj-text> 
+      <mj-text align="center" padding="0 5px 10px 0" font-family="apertura, Yantramanav, sans-serif" font-weight="500" font-size="90px" line-height="95px" color="#57aadd">IPSUM</mj-text>
     </mj-hero>
     
     
@@ -34,7 +29,7 @@
         
         <mj-text align="left" padding="20px 20px 0 20px" font-family="apertura, Yantramanav, sans-serif" font-weight="700" font-size="35px" line-height="40px" background-color="#ffffff">A Wider Circle Welcomes You to This Email Template</mj-text>
         <mj-text align="left" padding="20px 20px 0 20px" font-weight="500" background-color="#ffffff">Sed milia simus maximenim dem corepudit ius voluptios et modipitiam ut re liasped et estempo saperae cus. Aliquiate re elique ditiam, que eum nullab ium hit lam, te nonectatur, ant. Aliquiate re elique ditiam.</mj-text> 
-        <mj-button background-color="#000000" color="#ffffff" font-family="apertura, Yantramanav, sans-serif" font-size="32px" padding="40px 40px 20px 40px" align="center" href="https://awidercircle.org">
+        <mj-button background-color="#000000" color="#ffffff" font-family="apertura, Yantramanav, sans-serif" font-size="32px" padding="40px 20px 20px 20px" align="center" href="https://awidercircle.org">
           Buy <span style="color: #57aadd; font-weight: 500;">TICKETS</span>
         </mj-button>
         <mj-image src="https://cdn.abcdandcompany.com/awc/wcircle-play.png" href="https://awidercircle.org" alt="" align="center" border="none" padding="40px 10px 50px 10px"></mj-image>
@@ -58,7 +53,7 @@
     </mj-section>
     
     
-    <mj-section background-color="#ffffff" padding-bottom="10px">
+    <mj-section background-color="#ffffff">
       
       <mj-column width="50%" vertical-align="bottom" background-color="#ffffff">
         <mj-image src="https://cdn.abcdandcompany.com/awc/photo-people.png" href="https://awidercircle.org" alt="" align="center" border="none" padding="20px 0px 0px 0px"></mj-image>
